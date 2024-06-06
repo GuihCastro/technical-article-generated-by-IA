@@ -46,6 +46,8 @@ O artigo resume os conceitos abordados e reforça a importância da DI no desenv
 
 A injeção de dependências é uma técnica fundamental para a construção de aplicações Java robustas e escaláveis. Adotar boas práticas na sua implementação contribui para a criação de sistemas resilientes e adaptáveis.
 
+Confira, por fim, o [Artigo publicado na plataforma da DIO.me](https://web.dio.me/articles/injecao-de-dependencias-com-spring-boas-praticas-e-exemplos?back=%2Farticles&open-modal=true&page=1&order=oldest)
+
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gui-hcastro/)
